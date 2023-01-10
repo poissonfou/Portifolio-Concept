@@ -1,0 +1,30 @@
+.profile-pic-main{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    border-color: rgb(9, 192, 9);
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    object-fit: cover;    
+}
+
+.box-pic{
+    width: 18rem;
+    height: 15rem;
+    background-color: #302F3D;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    border-radius: 5%;
+}
+
+.text-name{
+    font-weight: 700;
+    margin-left: 2.7rem;
+}
+
+.description{
+    font-size: small;
+    margin-left: 4.8rem;
+}
