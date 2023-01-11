@@ -62,3 +62,43 @@
     width: 1.5rem;
     margin-top: 0.7rem;
 }
+
+.box-technologies{
+    background-color: #302F3D;
+    width: 18rem;
+    height: 12rem;
+    margin-left: 1.5rem;
+    border-radius: 5%;
+
+}
+
+.box-technologies h3{
+    padding-top: 5%;
+    margin-left: 1rem;
+    margin-bottom: 0%;
+}
+
+.techs{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0.5rem;
+}
+
+.tech-1, .tech-2, .tech-3{
+    font-size: small;
+    margin-left: 0.7rem;
+    margin-top: 0.5rem;
+    width: 16rem;
+}
+
+.tech-1 div, .tech-2 div, .tech-3 div{
+    margin-top: 1rem;
+    background-color: #CB92B1;
+    color: black;
+    border-radius: 30%;
+    align-items: center;
+    height: 25%;
+    width: 5rem;
+    text-align: center;
+    padding-top: 1%;
+}
