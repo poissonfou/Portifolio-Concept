@@ -140,3 +140,32 @@
 {
     font-weight: bold;
 }
+
+.education{
+    background-color: #302F3D;
+    width: 18rem;
+    height: 14rem;
+    margin-left: 1.5rem;
+    border-radius: 5%;
+}
+
+.education h3{
+    margin-left: 1rem;
+    padding-top: 1rem;
+}
+
+.education-1, .education-2{
+    margin-left: 3rem;
+    margin-top: 5%;
+}
+
+.education-1 p, .education-2 p{
+    margin-bottom: 0%;
+    margin-top: 2%;
+}
+
+.education-1 p:first-child, 
+.education-2 p:first-child
+{
+    font-weight: bold;
+}
