@@ -170,8 +170,32 @@
     font-weight: bold;
 }
 
+header{
+    display: flex;
+    flex-direction: row;
+    width: 50rem;
+    background-color: #302F3D;
+    height: 5rem;
+    border-radius: 5%;
+    margin-left: 5%;
+    margin-top: 1.5rem;
+}
+
+header h2{
+    margin-left: 5%;
+}
+
+header p{
+    margin-left: 60%;
+
+}
 footer{
     font-size: small;
     text-align: center;
     margin-top: 2em;
+}
+
+.top-page{
+    display: flex;
+    flex-direction: row;
 }
