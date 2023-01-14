@@ -1,0 +1,177 @@
+.profile-pic-main{
+    width: 7rem;
+    height: 7rem;
+    border-radius: 50%;
+    border-color: rgb(9, 192, 9);
+    border-width: 2px;
+    border-style: solid;
+    margin-left: 5rem;
+    margin-top: 1rem;
+    object-fit: cover;    
+}
+
+.box-pic{
+    width: 18rem;
+    height: 15rem;
+    background-color: #302F3D;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    border-radius: 5%;
+    align-items: center;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.text-name{
+    font-weight: 700;
+    margin-left: 2.7rem;
+}
+
+.description{
+    font-size: small;
+    margin-left: 4.8rem;
+}
+
+.basic-info-box{
+    display: flex;
+    width: 18rem;
+    height: 18rem;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
+    background-color: #302F3D;
+    border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.descriptors p{
+    font-size: small;
+    padding-bottom: 0.1rem;
+}
+
+.descriptors{
+    margin-top: 1.5rem;
+    width: 3rem;
+    margin-left: 7%;
+}
+
+.icons{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.icons img{
+    width: 1.5rem;
+    margin-top: 0.7rem;
+}
+
+.box-technologies{
+    background-color: #302F3D;
+    width: 18rem;
+    height: 12rem;
+    margin-left: 1.5rem;
+    border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.box-technologies h3{
+    padding-top: 5%;
+    margin-left: 1rem;
+    margin-bottom: 0%;
+}
+
+.techs{
+    display: flex;
+    flex-direction: row;
+    margin-left: 0.5rem;
+}
+
+.tech-1, .tech-2, .tech-3{
+    font-size: small;
+    margin-left: 0.7rem;
+    margin-top: 0.5rem;
+    width: 16rem;
+}
+
+.tech-1 div, .tech-2 div, .tech-3 div{
+    margin-top: 1rem;
+    background-color: #CB92B1;
+    color: black;
+    border-radius: 5rem;
+    font-size: 0.6rem;
+    font-weight: bold;
+    height: 20%;
+    width: 4rem;
+    text-align: center;
+    align-content: center;
+    padding-top: 1%;
+}
+
+.experiences{
+    background-color: #302F3D;
+    width: 18rem;
+    height: 14rem;
+    margin-left: 1.5rem;
+    border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.experiences h3{
+    margin-left: 1rem;
+    padding-top: 1rem;
+}
+
+
+.descrip{
+    font-size: small;
+}
+
+.date{
+    font-size: small;
+}
+
+.experience-1, .experience-2{
+    margin-left: 3rem;
+    margin-top: 5%;
+}
+
+.experience-1 p, .experience-2 p{
+    margin-bottom: 0%;
+    margin-top: 2%;
+}
+
+.experience-1 p:first-child, 
+.experience-2 p:first-child
+{
+    font-weight: bold;
+}
+
+.education{
+    background-color: #302F3D;
+    width: 18rem;
+    height: 14rem;
+    margin-left: 1.5rem;
+    border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.education h3{
+    margin-left: 1rem;
+    padding-top: 1rem;
+}
+
+.education-1, .education-2{
+    margin-left: 3rem;
+    margin-top: 5%;
+}
+
+.education-1 p, .education-2 p{
+    margin-bottom: 0%;
+    margin-top: 2%;
+}
+
+.education-1 p:first-child, 
+.education-2 p:first-child
+{
+    font-weight: bold;
+}

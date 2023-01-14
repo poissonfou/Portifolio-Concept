@@ -1,0 +1,179 @@
+header{
+    display: flex;
+    flex-direction: row;
+    width: 56rem;
+    background-color: #302F3D;
+    height: 5rem;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-right: 5rem;
+    margin-top: 1.5rem;
+    align-items: center;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+header h2{
+    margin-left: 5%;
+}
+
+header p{
+    margin-left: 67%;
+
+}
+
+.repos-one{
+    background-color: #302F3D;
+    width: 27.5rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    margin-left: 3.0rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.repos-two{
+    background-color: #302F3D;
+    width: 27.5rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.folder{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 1.5rem;
+}
+
+.folder p{
+    margin-left: 1rem;
+}
+
+.star-branch{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+
+.star{
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}
+
+.branch{
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}
+
+.round-light{
+    background-color: yellowgreen;
+    width: 0.7rem;
+    height: 0.7rem;
+    border-color: #CB92B1;
+    border-style: solid;
+    border-width: 0.1rem;
+    border-radius: 5rem;
+    margin-top: 0.2rem;
+    margin-left: 10.5rem;
+    position: absolute;
+}
+
+.javascript{
+    margin-left: 11.7rem;
+}
+
+.right-conner{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.repos-desc{
+    margin-left: 1.5rem;
+    font-size: small;
+}
+
+.repositories{
+    display: flex;
+    flex-direction: row;
+}
+
+.posts{
+    width: 56rem;
+    background-color: #302F3D;
+    height: 5rem;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-right: 5rem;
+    margin-top: 1.5rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.posts h2{
+    margin-left: 3%;
+    position: absolute;
+    margin-top: 1.4rem;
+}
+
+.post{
+    background-color: #302F3D;
+    width: 56rem;
+    height: 13rem;
+    margin-left: 3rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
+}
+
+.post-title{
+    margin-left: 1.5rem;
+}
+
+.post-title h4{
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
+
+.post-title p{
+    font-size: small;
+}
+
+.post-descp{
+    margin-left: 1.5rem;
+}
+
+.post-descp p{
+    margin-bottom: 0;
+}
+
+.descp-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.hashtags{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: small;
+}
+
+.profile-pic{
+    width: 8rem;
+    height: 8rem;
+    border-radius: 50%;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    object-fit: cover;  
+}
+
+
+footer{
+    font-size: small;
+    text-align: center;
+    margin-top: 2em;
+}
