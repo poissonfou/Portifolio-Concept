@@ -23,6 +23,7 @@
     margin-top: 1.5rem;
     border-radius: 5%;
     align-items: center;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .text-name{
@@ -43,6 +44,7 @@
     margin-top: 1.5rem;
     background-color: #302F3D;
     border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .descriptors p{
@@ -74,7 +76,7 @@
     height: 12rem;
     margin-left: 1.5rem;
     border-radius: 5%;
-
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .box-technologies h3{
@@ -116,6 +118,7 @@
     height: 14rem;
     margin-left: 1.5rem;
     border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .experiences h3{
@@ -154,6 +157,7 @@
     height: 14rem;
     margin-left: 1.5rem;
     border-radius: 5%;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .education h3{
@@ -188,6 +192,7 @@ header{
     margin-right: 5rem;
     margin-top: 1.5rem;
     align-items: center;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 header h2{
@@ -205,6 +210,7 @@ header p{
     border-radius: 1rem;
     margin-top: 1.5rem;
     margin-left: 3.0rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .repos-two{
@@ -213,6 +219,7 @@ header p{
     border-radius: 1rem;
     margin-top: 1.5rem;
     margin-left: 1rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .folder{
@@ -284,6 +291,7 @@ header p{
     margin-left: 3rem;
     margin-right: 5rem;
     margin-top: 1.5rem;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .posts h2{
@@ -301,6 +309,7 @@ header p{
     margin-top: 1.5rem;
     display: flex;
     flex-direction: row;
+    box-shadow: 0.2rem 0.2rem 0.2rem #16161b;
 }
 
 .post-title{
