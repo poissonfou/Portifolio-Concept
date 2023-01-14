@@ -100,11 +100,13 @@
     margin-top: 1rem;
     background-color: #CB92B1;
     color: black;
-    border-radius: 30%;
-    align-items: center;
-    height: 25%;
-    width: 5rem;
+    border-radius: 5rem;
+    font-size: 0.6rem;
+    font-weight: bold;
+    height: 20%;
+    width: 4rem;
     text-align: center;
+    align-content: center;
     padding-top: 1%;
 }
 
@@ -272,6 +274,22 @@ header p{
 .repositories{
     display: flex;
     flex-direction: row;
+}
+
+.posts{
+    width: 56rem;
+    background-color: #302F3D;
+    height: 5rem;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-right: 5rem;
+    margin-top: 1.5rem;
+}
+
+.posts h2{
+    margin-left: 3%;
+    position: absolute;
+    margin-top: 1.4rem;
 }
 
 footer{
