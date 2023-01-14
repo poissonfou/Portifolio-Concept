@@ -3,3 +3,8 @@ body{
     font-family: Merriweather Sans;
     color: #837E9F; 
 }
+
+.main-div{
+    display: flex;
+    justify-content: space-between;
+}   
