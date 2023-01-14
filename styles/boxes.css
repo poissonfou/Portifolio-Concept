@@ -1,3 +1,8 @@
+.main-div{
+    display: flex;
+    justify-content: space-between;
+}
+
 .profile-pic-main{
     width: 7rem;
     height: 7rem;
@@ -173,12 +178,14 @@
 header{
     display: flex;
     flex-direction: row;
-    width: 50rem;
+    width: 56rem;
     background-color: #302F3D;
     height: 5rem;
-    border-radius: 5%;
-    margin-left: 5%;
+    border-radius: 1rem;
+    margin-left: 3rem;
+    margin-right: 5rem;
     margin-top: 1.5rem;
+    align-items: center;
 }
 
 header h2{
@@ -186,16 +193,90 @@ header h2{
 }
 
 header p{
-    margin-left: 60%;
+    margin-left: 67%;
 
 }
+
+.repos-one{
+    background-color: #302F3D;
+    width: 27.5rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    margin-left: 3.0rem;
+}
+
+.repos-two{
+    background-color: #302F3D;
+    width: 27.5rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+}
+
+.folder{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 1.5rem;
+}
+
+.folder p{
+    margin-left: 1rem;
+}
+
+.star-branch{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 0.5rem;
+}
+
+.star{
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}
+
+.branch{
+    margin-right: 0.5rem;
+    margin-left: 1rem;
+}
+
+.round-light{
+    background-color: yellowgreen;
+    width: 0.7rem;
+    height: 0.7rem;
+    border-color: #CB92B1;
+    border-style: solid;
+    border-width: 0.1rem;
+    border-radius: 5rem;
+    margin-top: 0.2rem;
+    margin-left: 10.5rem;
+    position: absolute;
+}
+
+.javascript{
+    margin-left: 11.7rem;
+}
+
+.right-conner{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.repos-desc{
+    margin-left: 1.5rem;
+    font-size: small;
+}
+
+.repositories{
+    display: flex;
+    flex-direction: row;
+}
+
 footer{
     font-size: small;
     text-align: center;
     margin-top: 2em;
 }
 
-.top-page{
-    display: flex;
-    flex-direction: row;
-}
