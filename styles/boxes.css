@@ -292,6 +292,14 @@ header p{
     margin-top: 1.4rem;
 }
 
+.post{
+    background-color: #302F3D;
+    width: 56rem;
+    margin-left: 3rem;
+    border-radius: 1rem;
+    margin-top: 1.5rem;
+}
+
 footer{
     font-size: small;
     text-align: center;
